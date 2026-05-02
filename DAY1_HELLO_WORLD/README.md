@@ -3,4 +3,6 @@ In day1 i soluved question which is Write a function createHelloWorld. It should
 my code solution:
 
 
-
+out put:
+area=200
+area=400
